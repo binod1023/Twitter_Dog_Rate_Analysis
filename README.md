@@ -8,7 +8,7 @@
  Pandas, Numpy, Request libray, Excel
  
  ## Outline of the Project
- Gathered data from three datasets: twitter-archive-enhanced.csv,tweet_jason,  image_prediction.tsv.
+ Gathered data from three datasets: twitter-archive-enhanced.csv, tweet_jason,  image_prediction.tsv.
  
  Assessed and cleaned data, dealed with missing values, duplicate data, and changed data types.
  
