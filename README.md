@@ -1,7 +1,4 @@
 # Twitter Dog Rate Analysis
-
- ##Introduction to the Project
- 
  This is the analysis project that I completed for Udacity Data Analyst Course. The goal of this project is to analyze tweets posted for twitter account WeRateDogs.
  
  ## Tools Used
