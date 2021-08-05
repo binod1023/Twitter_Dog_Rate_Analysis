@@ -1,5 +1,7 @@
 # Twitter Dog Rate Analysis
- This is the analysis project that I completed for Udacity Data Analyst Course. The goal of this project is to analyze tweets posted for twitter account WeRateDogs.
+ This data analysis project is completed as a part of Udacity Data Analyst Course. 
+ 
+ The goal of this project is to analyze tweets posted for twitter account WeRateDogs.
  
  ## Tools Used
  Pandas, Numpy, Request libray, Excel
@@ -13,7 +15,7 @@
  
  Calculated correlation of Retweet and favourite tweets of WeRateDogs.
  
- ## Information of files attached
+ ## files attached 
  wrangle_report.pdf summerizes wrangling steps of this project.
  
  act_report.pdf summerizes findings and reports of this project.
